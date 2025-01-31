@@ -1,2 +1,2 @@
 # Spotify
-Projeto do Spotify
+Projeto da plataforma do Spotify
